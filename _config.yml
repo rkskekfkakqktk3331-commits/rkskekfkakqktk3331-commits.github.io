@@ -24,3 +24,4 @@ exclude:
 # Include files/directories
 include:
   - images/
+  - media/
